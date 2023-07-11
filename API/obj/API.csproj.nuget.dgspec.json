@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj"
+              },
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\Infrastructure.csproj"
+              },
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
