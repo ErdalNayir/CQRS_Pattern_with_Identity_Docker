@@ -13,4 +13,4 @@ This project includes
 *  CQRS Desing Pattern
 *  AutoMapper
 *  Jwt Token Validation
-*  MediatR
+*  MediatR.
