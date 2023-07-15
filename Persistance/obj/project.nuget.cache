@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIY7SiowHTddjzSAuNxLLUHTmZ8H9ji7Cn9/Nvu6L9hV+bbCX5ylpPU6f8TKlpijMgSIAI0scLfF9oZJTADXhQ==",
+  "dgSpecHash": "mIjewrrMYA1usCe8gKJZiQVWWT5klFiPEWdyv2PbBxmSUHGd8s9y25EgpZ0gjpkz4xTDWkrG6omBSJEEeQy0FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj",
+  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Persistance\\Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erdal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\erdal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",

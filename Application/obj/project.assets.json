@@ -1194,11 +1194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1215,11 +1215,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj": {
-              "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Persistance\\Persistance.csproj"
+            "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Persistance\\Persistance.csproj": {
+              "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Persistance\\Persistance.csproj"
             }
           }
         }

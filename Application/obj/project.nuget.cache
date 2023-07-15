@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVduWjJhjSzH0w2HVJqYL9V2CRN2IDlPQ5pdNjnBwiDnUWWBSmFVq/YJn05DjbsuXSVqCIoMO+XDH1vd/etmxA==",
+  "dgSpecHash": "1dmrfV8cKheD8qkC0hvPOXhv+Xgba4W2v7vZAC07gs/FtHi909cdbZMtzYz34Z5jw2F9qa22JHA5EzZXZmhELg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erdal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\erdal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

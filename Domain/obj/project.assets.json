@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\erdal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erdal\\AppData\\Roaming\\NuGet\\NuGet.Config",

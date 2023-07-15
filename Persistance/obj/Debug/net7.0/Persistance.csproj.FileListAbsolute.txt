@@ -15,3 +15,20 @@ C:\Users\erdal\OneDrive\Masaüstü\ASP.NET Projects\Reactivities\Persistance\obj
 C:\Users\erdal\OneDrive\Masaüstü\ASP.NET Projects\Reactivities\Persistance\obj\Debug\net7.0\Persistance.pdb
 C:\Users\erdal\OneDrive\Masaüstü\ASP.NET Projects\Reactivities\Persistance\obj\Debug\net7.0\Persistance.genruntimeconfig.cache
 C:\Users\erdal\OneDrive\Masaüstü\ASP.NET Projects\Reactivities\Persistance\obj\Debug\net7.0\ref\Persistance.dll
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Persistance.deps.json
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Persistance.runtimeconfig.json
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Persistance.dll
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Persistance.pdb
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Domain.dll
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\bin\Debug\net7.0\Domain.pdb
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfo.cs
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.csproj.CopyComplete
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.dll
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\refint\Persistance.dll
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.pdb
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\Persistance.genruntimeconfig.cache
+C:\Users\erdal\OneDrive\Masaüstü\Deneme\CQRS_Pattern_with_Identity\Persistance\obj\Debug\net7.0\ref\Persistance.dll

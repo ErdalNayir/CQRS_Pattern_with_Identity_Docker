@@ -11,13 +11,14 @@ namespace Persistance.Concrete
 {
     public class DataContext : IdentityDbContext<AppUser>
     {
+        
         public DataContext(DbContextOptions options) : base(options)
         {
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=localhost;database=reactivitiesdb;user=erdal;password=*2001*2001*", new MySqlServerVersion("8.0.32"));
+            optionsBuilder.UseMySql("server=reactivitiesdb;database=reactivitiesdb;user=erdal;password=*2001*2001*", new MySqlServerVersion("8.0.32"));
         }
 
         public DbSet<Activity> Activities { get; set; }

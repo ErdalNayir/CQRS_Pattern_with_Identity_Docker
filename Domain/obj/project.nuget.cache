@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frMrwKIKG3fYCKxmMkV4rLogftriSnaj1wM+y8aE63ndSaNd34IfuSCBlLUcarSVolV0NoNNLIXKNe0iFCLjoA==",
+  "dgSpecHash": "UbIMIjuXtaSO29Q7TpLQ13qA0lSzsW85NAHtoJsPhwsnqA+APXTGbbDNKwKNHHe3B0sUz9eldy8puubRq09WCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\ASP.NET Projects\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\erdal\\OneDrive\\Masaüstü\\Deneme\\CQRS_Pattern_with_Identity\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erdal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\erdal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",

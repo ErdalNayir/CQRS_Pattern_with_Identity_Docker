@@ -1,0 +1,37 @@
+version: '3.4'
+
+services:
+
+  reactivitiesdb:
+    image: mysql:8.0.32
+    container_name: app_db
+    restart: always
+    #environment:
+    #   - MYSQL_ROOT_PASSWORD=*2001*2001*
+    #   - MYSQL_DATABASE=reactivitiesdb
+    #   - MYSQL_USER=erdal
+    #   - MYSQL_PASSWORD=*2001*2001*   
+    volumes:
+      - mysql-data:/var/lib/mysql
+    ports:
+      - 4000:3306
+    
+  api:
+    image: ${DOCKER_REGISTRY-}api
+    depends_on:
+      - "reactivitiesdb"
+    container_name: webapi-services
+    ports:
+      - "9000:80"
+    build:
+      context: .
+      dockerfile: API/Dockerfile
+    environment:
+       - TokenKey="0cruDGnaqJJQg2besDgTIMsdNfjjidvPXjc1s3d74cKbRp7d1oKZUZBkGRfjdIZb"
+       - ConnectionStrings__DefaultConnection="server=localhost;database=reactivitiesdb;user=erdal;password=*2001*2001*"
+      
+    
+
+volumes:
+   mysql-data:    
+  
