@@ -1,8 +1,9 @@
-# CQRS_Pattern_with_Identity
+# CQRS_Pattern_with_Identity_Docker
 
-The project aims to learn the CQRS pattern and Identity Server.
+The project aims to learn the CQRS pattern and Identity Server and Api has been containerized with docker
 
 This project includes
+*  Containezire API with Docker
 *  Identity Server
 *  Clean Code Architecture
 *  Fluent Validation
